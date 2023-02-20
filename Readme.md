@@ -12,3 +12,4 @@ Calc|N/A|Windows 8.1 Calculator application
 AccessPort|7/13/2022|Serial port monitoring tool|[Link](http://www.sudt.com/en/ap/index.html)
 PacketSender|2/17/2023|Send and receive UDP/TCP/SSL on the ports|[Link](https://packetsender.com/)
 RWEverything|2/18/2023|Powerful utility to access hardware resource|[Link](http://rweverything.com/)
+Hex2bin|7/15/2022|Convert hex files into a binary file|[Link](https://hex2bin.sourceforge.net/)

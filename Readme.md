@@ -15,3 +15,4 @@ RWEverything|2/18/2023|Powerful utility to access hardware resource|[Link](http:
 Hex2bin|7/15/2022|Convert hex files into a binary file|[Link](https://hex2bin.sourceforge.net/)
 RU|2/20/2023|Access hardware in UEFI Shell or DOS|[Link](http://ruexe.blogspot.com/)
 USBView|N/A|Browse USB controllers and devices|[Link](https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/usbview)
+ConnectUtility|2/27/2023|Logitech Connection Utility (M/N: C-U0010)|[Link](https://support.logi.com/hc/en-us/articles/360025141574)
